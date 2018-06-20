@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:innerRadius="20dp"
+    android:thicknessRatio="5"
+    android:useLevel="false"
+
+    >
+
+    <!--<corners android:radius="20dp"/>-->
+
+    <!--<corners-->
+        <!--android:topLeftRadius="10dp"-->
+        <!--android:topRightRadius="15dp"-->
+        <!--android:bottomRightRadius="20dp"-->
+        <!--android:bottomLeftRadius="50dp"/>-->
+
+    <!--&lt;!&ndash;<corners android:bottomRightRadius="10dp"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;<corners android:topLeftRadius="10dp"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;<corners android:topRightRadius="10dp"/>&ndash;&gt;-->
+
+    <solid android:color="#ff00ff"/>
+
+
+    <!--<gradient android:type="sweep"-->
+        <!--android:gradientRadius="500"-->
+        <!--android:angle="90"-->
+        <!--android:centerX="0.5"-->
+        <!--android:centerY="0.5"-->
+        <!--android:startColor="@color/colorAccent"-->
+        <!--android:centerColor="@color/colorPrimary"-->
+        <!--android:endColor="#000000"-->
+        <!--android:useLevel="false"-->
+        <!--/>-->
+
+
+    <!--<stroke android:color="#00ff00"-->
+        <!--android:width="20dp"-->
+        <!--android:dashWidth="50dp"-->
+        <!--android:dashGap="10dp"/>-->
+
+    <padding
+        android:left="50dp"
+        android:top="100dp"
+        android:right="150dp"
+        android:bottom="200dp"/>
+
+</shape>
